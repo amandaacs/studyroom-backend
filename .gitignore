@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Arquivos de credenciais do Firebase
+src/main/resources/study-room-firebase-adminsdk.json
